@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<!-- head tag -->
+<head>
+    <title>Welcom to Title</title>
+</head>
+<!-- Body tag -->
+<body>
+    <h1>Font size 1</h1>
+    <h2>Font size 2</h2>
+    <h3>Font size 3</h3>
+    <h4>Font size 4</h4>
+    <h5>Font size 5</h5>
+    <h6>Font size 6</h6>
+    <li>Listed tag</li>
+    <ul>Unlisted tag</ul>
+    <section>Section tag to separate section</section>
+    
+    <p>
+      Paragraph tag
+    </p>
+    <img src="Image tag to insert image link">
+    <div> A DIVITION TAG</div>
+    <video>Vidio tag to insert the vidio link</video>
+
+</body>
+  
+</html>
